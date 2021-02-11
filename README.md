@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there, I'm Daina! ✌️
 
-<!--
-**daina-slezaite/daina-slezaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front End Developer with a background in Marketing, currently learning and strengthening my skills in React ⚛️ 🌱
 
-Here are some ideas to get you started:
+#### Here's a bit more about me ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const Daina = {
+  iAm: ['Front End Developer', 'Marketer'],
+  iCodeWith: ['JavaScript', 'HTML', 'CSS'],
+  toolsIUse: ['React', 'Node', 'Express', 'Handlebars', 'MongoDB', 'Mongoose', 'Axios'],
+  startedCoding: new Date(2020, 09, 15),
+  projects: {
+    canvasGame: 'https://github.com/daina-slezaite/key-pong',
+    expressApp: 'https://github.com/alesscamma/challengeHub',
+    reactApp: WIP
+  }
+}
+```
+#### Find me elsewhere 🧭
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/daina-slezaite/) | daina.slezaite@gmail.com
